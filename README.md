@@ -1,10 +1,9 @@
 ## 프로젝트 자료
 
+- https://olovesy.dothome.co.kr/FridgePaper/
 - [전체 코딩파일,발표자료](네이버[-MYBOX-ZIP-공유주소](https://naver.me/GkI9IWuJ) 비밀번호 :1111)
 
 > 고해상도 이미지가 포함되어 전체 프로젝트 파일은 외부 저장소를 통해 제공합니다.
-
-
 
 
 
